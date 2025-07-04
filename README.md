@@ -44,6 +44,7 @@
 ## 🔗 Links
 
 <div align="center">
+
   [![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~reza798)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezakhorrami729@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Reza.Sh798#8582)
