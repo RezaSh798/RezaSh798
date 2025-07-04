@@ -44,12 +44,17 @@
 ## 🔗 Links
 
 <div align="center">
-
-  [![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~reza798)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezakhorrami729@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Reza.Sh798#8582)
-
+  <a href="mailto:rezakhorrami729@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="30" alt="gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.npmjs.com/~reza798">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/npm.svg" width="30" alt="npm" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/Reza.Sh798#8582">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" width="30" alt="discord" />
+  </a>
 </div>
----
 
 > *"Software is a journey, not a destination."*
