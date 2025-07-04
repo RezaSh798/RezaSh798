@@ -2,7 +2,7 @@
   <img src="./rivi.gif" alt="rivi gif" />
 </p>
 
-<h1 align="center">Hey there! I'm Rivi 👨‍💻</h1>
+<h1 align="center">Hey there! I'm Rivi 🦊</h1>
 
 <!-- <p align="center">
   A software engineer deeply passionate about system design and distributed systems.
