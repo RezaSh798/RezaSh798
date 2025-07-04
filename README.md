@@ -43,21 +43,13 @@
 
 ## 🔗 Links
 
-<p align="left">
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/) -->
-[![NPM](https://img.shields.io/badge/NPM-red?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~reza798)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rezakhorrami729@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/Reza.Sh798#8582)
+<div align="center">
 
-  <!-- <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="24" height="24" /></a>
-  &nbsp;
-  <a href="mailto:rezakhorrami729@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="24" height="24" /></a>
-  &nbsp;
-  <a href="https://www.npmjs.com/~reza798" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/npm.svg" width="24" height="24" /></a>
-  &nbsp;
-  <a href="https://discordapp.com/users/your-discord-id" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" width="24" height="24" /></a> -->
-</p>
+  [![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~reza798)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezakhorrami729@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Reza.Sh798#8582)
 
+</div>
 ---
 
 > *"Software is a journey, not a destination."*
