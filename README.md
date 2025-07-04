@@ -12,7 +12,7 @@
 
 - 👨‍💻 **Software Engineer** focused on building scalable, resilient systems.
 - 🔁 Main stack: **Node.js (NestJS)** – expanding into **C#/.NET**.
-- 📚 Lifelong learner with a strong focus on distributed systems and software architecture, especially microservices.
+- 📚 Lifelong learner with a strong focus on distributed systems and software architecture, especially **microservices**.
 - ⚙️ Experienced with event-driven design patterns like **CQRS**, **Event Sourcing**, and **Saga**.
 - 🧵 Love exploring concepts like **CAP Theorem**, **Sharding** and **Idempotency**.
 - 🛠️ Currently studying **DevOps**, building CI/CD pipelines, and deploying containerized applications with **Docker** & **Kubernetes**.
